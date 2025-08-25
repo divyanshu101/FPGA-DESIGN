@@ -6,17 +6,17 @@ This repository contains the RTL design and testbenches for an **AXI4-Lite to AP
 
 ## 📂 Directory Structure
 ├── readme.md                                                                                                                                                                                                                                                                     
-├── Sim
-│ └── Bridge.png
-├── src
-│ ├── Axi4_lite
-│ │ ├── AXIL4_master.v
-│ │ ├── AXIL4_slave.v
-│ │ └── AXIL4_top.v
-│ └── Axi4_lite_APB_Bridge
-│ └── axi4lite_to_apb.v
-└── tb
-├── TB_AXI4_lite.sv
+├── Sim                                                                                                                                                                                                                                                                           
+│ └── Bridge.png                                                                                                                                                                                                                                                                  
+├── src                                                                                                                                                                                                                                                                           
+│ ├── Axi4_lite                                                                                                                                                                                                                                                                   
+│ │ ├── AXIL4_master.v                                                                                                                                                                                                                                                            
+│ │ ├── AXIL4_slave.v                                                                                                                                                                                                                                                             
+│ │ └── AXIL4_top.v                                                                                                                                                                                                                                                               
+│ └── Axi4_lite_APB_Bridge                                                                                                                                                                                                                                                        
+│ └── axi4lite_to_apb.v                                                                                                                                                                                                                                                           
+└── tb                                                                                                                                                                                                                                                                            
+├── TB_AXI4_lite.sv                                                                                                                                                                                                                                                               
 └── tb_bridge.sv
 
 
