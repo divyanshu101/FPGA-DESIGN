@@ -5,7 +5,7 @@ This repository contains the RTL design and testbenches for an **AXI4-Lite to AP
 ---
 
 ## 📂 Directory Structure
-├── readme.md
+├── readme.md                                                                                                                                                                                                                                                                     
 ├── Sim
 │ └── Bridge.png
 ├── src
